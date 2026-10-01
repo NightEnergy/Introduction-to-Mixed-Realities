@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="stormscale-scion" size="0.063000 0.087750" />
+    <ImageTarget name="plst-ddt-57-goblin-charbelcher" size="0.630000 0.877500" />
+  </Tracking>
+</QCARConfig>
